@@ -1,4 +1,4 @@
-# RECODE WABOT-AQ
+# BABY BOT
 
 Simple WhatsApp Bot
 
